@@ -1,9 +1,0 @@
-What is Python?
-Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.
-
-Why is it called Python?
-When he began implementing Python, Guido van Rossum was also reading the published scripts from “Monty Python's Flying Circus”, a BBC comedy series from the 1970s. 
-Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
-
-IDE's:
-https://www.simplilearn.com/tutorials/python-tutorial/python-ide

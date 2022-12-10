@@ -1,0 +1,34 @@
+Python Keywords and Identifiers
+
+Python Keywords
+Keywords are predefined, reserved words used in Python programming that have special meanings to the compiler.
+
+We cannot use a keyword as a variable name, function name, or any other identifier. They are used to define the syntax and structure of the Python language.
+
+All the keywords except True, False and None are in lowercase and they must be written as they are.
+
+There are 33 keywords in Python
+
+	 Python Keywords List	 	 
+False	await	else	import	pass
+None	break	except	in	raise
+True	class	finally	is	return
+and	continue	for	lambda	try
+as	def	from	nonlocal	while
+assert	del	global	not	with
+async	elif	if	or	yield
+
+Python Identifiers
+
+Identifiers are the name given to variables, classes, methods, etc. For example,
+
+language = 'Python'
+Here, language is a variable (an identifier) which holds the value 'Python'.
+
+Rules for Naming an Identifier
+Identifiers cannot be a keyword.
+Identifiers are case-sensitive.
+It can have a sequence of letters and digits. However, it must begin with a letter or _. The first letter of an identifier cannot be a digit.
+It's a convention to start an identifier with a letter rather _.
+Whitespaces are not allowed.
+We cannot use special symbols like !, @, #, $, and so on.

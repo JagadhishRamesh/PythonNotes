@@ -1,0 +1,105 @@
+What is Python?
+Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Why is it called Python?
+When he began implementing Python, Guido van Rossum was also reading the published scripts from “Monty Python's Flying Circus”, a BBC comedy series from the 1970s. 
+Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Why Python?
+Python is Easy to Learn
+It requires considerably lesser resources and time for a beginner to learn and start implementing Python when compared with programming languages like Java or C++.
+
+Python is Cross-Platform
+Cross-platform or platform-independent is a programming language feature that allows a developer to run intermediate code on different OS.
+
+Python Has Hundreds of Libraries
+Python’s library collection is enormous and allows developers to use pre-written code, saving time when developing a new program. 
+
+Python Has Excellent Community Support
+Python comes with an abundance of documentation and support material for troubleshooting and learning. A Python developer not able to crack a piece of code needn’t be very concerned and can easily find documentation, guides, and video tutorials to help them move forward, unlike many other programming languages.
+
+Python Supports Scalable Development
+If a Python developer is stuck on a piece of code, they shouldn’t find it difficult to get relevant support. From the documentation, guides, and video tutorials, Python community provides plenty of assistance, unlike some of the other languages out there today.
+
+Several tech industries use Python for development:
+
+Machine Learning and AI
+Machine learning and AI have been perhaps the most sought-after field of technology lately. Python is the default language for machine learning.
+
+Web Development
+Python is extensively used for the backend development of any web application.
+
+Game Development
+Python also has the capabilities for game development. So if you are into that, learning Python is still an option.
+
+Internet of Things
+Internet of Things is a comparatively new field, but it has become largely popular recently, and we also use Python in this field of technology.
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Python has surpassed Java and become the 2nd most popular language according to GitHub repository contributions.
+
+Machine Learning is probably the most popular field in the tech industry right now.
+Python, because of its variety of libraries, is the preferred language for performing machine learning tasks.
+Libraries like NumPy, Pandas, TensorFlow are widely used in machine learning and artificial intelligence.
+So if you are into machine learning, and artificial intelligence, Python should be the one you choose.
+
+Software engineers with Python skills are offered better salaries across the globe.
+
+The average Python developer salary in India is ₹755,497.
+--------------------------------------------------------------------------------------------------------------------------
+
+Python 2 vs Python 3:
+
+Python’s journey from its invention (1991) till now has been very long and during this time many versions of it have been released. Python 3 is currently in use and it was invented to overcome some of the shortcomings of Python 2.
+
+Python 2.0 was created by Guido van Rossum, a Dutch programmer, who is famous as the creator of the Python programming language. It was released on Oct 16, 2000. Many major new features were introduced in it, such as a cycle-detecting garbage collector for memory management, list comprehensions, and support for Unicode.
+
+Python 3 is a newer version of the Python programming language. The main intention for creating Python 3 was to fix those problems programmers were facing while working in Python 2.
+
+Python 3 was developed by Guido van Rossum, a Dutch programmer, who is best known as the creator of the Python programming language. It was released in 2008. It was a major revision that is not completely backwards-compatible with earlier versions.
+
+
+In almost all tests conducted to check the performance speed of Python 3, it is found that Python 3 is faster than Python 2. In terms of speed, Python 3.7 is 1.19x faster than Python 2.7.
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Python Installation: 
+
+Download Python: https://www.python.org/downloads/
+
+Check the latest version of python on your machine by the following command: python --version
+Simple Python program: print('Hello World')
+
+Windows: https://www.simplilearn.com/tutorials/python-tutorial/python-installation-on-windows
+Mac: https://www.scaler.com/topics/python/how-to-install-python-on-macos/
+
+On macOS by default, python 2.7.0 is installed on macOS; hence we'll be working on updating to the latest version of python, i.e., python 3.
+
+Linux/Ubuntu: https://www.makeuseof.com/install-python-ubuntu/
+
+APT, or Advanced Package Tool is the default package manager that you will find on Ubuntu. You can download the Python package from the official Ubuntu repository.
+
+sudo apt update
+sudo apt install python3
+
+List python files: ls /bin | grep python
+To uninstall python: sudo apt-get remove --auto-remove python3.
+
+Online compiler: https://www.programiz.com/python-programming/online-compiler/
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Reference Links:
+https://www.simplilearn.com/tutorials/python-tutorial/learn-python
+https://www.simplilearn.com/tutorials/python-tutorial/python-installation-on-windows
+https://www.scaler.com/topics/python/how-to-install-python-on-macos/
+https://www.makeuseof.com/install-python-ubuntu/
+https://www.mygreatlearning.com/blog/python-2-vs-python-3/#:~:text=The%20fundamental%20difference%20between%20Python,be%20written%20in%20different%20ways.
+https://gist.github.com/zhensongren/811dcf2471f663ed3148a272f1faa957 #Uninstall Python

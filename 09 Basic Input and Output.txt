@@ -1,0 +1,56 @@
+Python Output
+In Python, we can simply use the print() function to print output. For example,
+
+print('Python is powerful')
+
+# Output: Python is powerful
+Run Code
+Here, the print() function displays the string enclosed inside the single quotation.
+
+-----------------------------------------------------------------------------------------------
+Syntax of print()
+In the above code, the print() function is taking a single parameter.
+However, the actual syntax of the print function accepts 5 parameters
+print(object= separator= end= file= flush=)
+
+object - value(s) to be printed
+sep (optional) - allows us to separate multiple objects inside print().
+end (optional) - allows us to add specific values like new line "\n", tab "\t"
+file (optional) - where the values are printed. It's default value is sys.stdout (screen)
+flush (optional) - boolean specifying if the output is flushed or buffered. Default: False
+-----------------------------------------------------------------------------------------------
+Print Python Variables and Literals:
+number = -10.6
+
+name = "Chennai"
+
+# print literals     
+print(5)
+
+# print variables
+print(number)
+print(name)
+-----------------------------------------------------------------------------------------------
+Print Concatenated Strings
+We can also join two strings together inside a print() statement. For example,
+
+print('Chennai ' + 'Bangalore.')
+-----------------------------------------------------------------------------------------------
+
+Output formatting
+Sometimes we would like to format our output to make it look attractive. This can be done by using the str.format() method. For example,
+
+x = 5
+y = 10
+
+print('The value of x is {} and y is {}'.format(x,y))
+
+-----------------------------------------------------------------------------------------------
+
+Python Input
+While programming, we might want to take the input from the user. In Python, we can use the input() function.
+
+Syntax of input()
+
+input([prompt])
+prompt is the string we wish to display on the screen. It is optional.

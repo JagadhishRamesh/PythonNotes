@@ -1,0 +1,63 @@
+Python Variables
+
+In programming, a variable is a container (storage area) to hold data. For example,
+
+Python has no command for declaring a variable.
+A variable is created the moment you first assign a value to it.
+
+myplace = 'Chennai'
+
+Here, myplace is a variable storing the value 'Chennai'.
+
+Python is a type-inferred language, so you don't have to explicitly define the variable type. It automatically knows that Chennai is a string and declares the myplace variable as a string.
+
+Changing the value of a variable:
+
+myplace = 'Chennai'
+myplace = 'Trichy'
+print(myplace)
+
+Assigning multiple values to multiple variables
+
+name, age, gender = 'Jagadhish', 22, 'M'
+print(name)
+print(age)
+print(gender)
+
+Assigning single value to multiple variables
+
+place1 = place2 = 'Chennai'
+print(place1)
+print(place2)
+
+Casting:
+If you want to specify the data type of a variable, this can be done with casting.
+
+x = str(3)    # x will be '3'
+y = int(3)    # y will be 3
+z = float(3)  # z will be 3.0
+
+Get the Type
+x = 10
+y = "Jagadhish"
+print(type(x))
+print(type(y))
+
+String variables can be declared either by using single or double quotes:
+
+x = 'Jagadhish'
+x = "Jagadhish"
+print(x)
+
+Global Variables
+
+Variables that are created outside of a function are known as global variables.
+
+Global variables can be used by everyone, both inside of functions and outside.
+
+If you create a variable with the same name inside a function, this variable will be local, and can only be used inside the function. The global variable with the same name will remain as it was, global and with the original value.
+
+Normally, when you create a variable inside a function, that variable is local, and can only be used inside that function.
+
+To create a global variable inside a function, you can use the global keyword.
+
